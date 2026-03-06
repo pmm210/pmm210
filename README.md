@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pmm210
-- 👀 This page is for collaborating with SIT students and staff
+- 👀 This repository is intended for educational use in blockchain/5G Security courses.
 - 📫 You can reach me at purnima.mohan@singaporetech.edu.sg
 
 <!---
